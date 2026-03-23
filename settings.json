@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "WELCOME TO SOVEREIGN SMP",
+    "username": "WELCOME_TO_SOVEREIGN_SMP",
     "password": "",
     "type": "offline"
   },
@@ -30,7 +30,7 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "Have fun, build or join empires, and forge your own story."
+        ""
       ]
     },
     "chat-log": true,
