@@ -47,7 +47,7 @@
       "enabled": true,
       "interval": 5000
     }
-  },
+  }
   "modules": {
     "avoidMobs": true,
     "combat": true,
@@ -69,7 +69,3 @@
       "chat": false
     }
   },
-  "chat": {
-    "respond": true
-  }
-}
