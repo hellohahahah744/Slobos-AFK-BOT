@@ -44,11 +44,6 @@
       "min-interval": 20,
       "max-interval": 60
     }
-    },
-    "look-around": {
-      "enabled": true,
-      "interval": 5000
-
     }
   },
   "modules": {
