@@ -44,21 +44,11 @@
       "min-interval": 20,
       "max-interval": 60
     }
-  },
-  "movement": {
-    "enabled": true,
-    "circle-walk": {
-      "enabled": true,
-      "radius": 4,
-      "speed": 3000
     },
     "look-around": {
       "enabled": true,
       "interval": 5000
-    },
-    "random-jump": {
-      "enabled": true,
-      "interval": 10000
+
     }
   },
   "modules": {
@@ -67,10 +57,6 @@
     "beds": true,
     "chat": true,
     "console-commands": true
-  },
-  "combat": {
-    "attack-mobs": true,
-    "auto-eat": true
 
   },
   "discord": {
